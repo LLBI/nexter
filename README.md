@@ -1,4 +1,4 @@
-# Natours project
+# Nexter project
 ## [View live demo](https://hedragris.github.io/nexter/)
 
 
